@@ -2,7 +2,7 @@
 title: DanTheColoradan
 description: 'Simple blog from a simple person'
 url: 'http://daniel.polanoc.me'
-baseurl: '/jekyll-uno'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 disqus_shortname: 'DanTheColoradan'
 
