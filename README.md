@@ -1,45 +1,47 @@
-# jekyll-uno
+<a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/" target="_blank"><img src="https://themes.3rdwavemedia.com/wp-content/uploads/2019/04/Bootstrap-Resume-CV-Template-DevResume-Promo-1.png" alt="DevResume - Bootstrap 5 Resume/CV Template for Developers" /></a>
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+## Theme Details & Demo
 
-> :warning:
-  This theme requires ruby and rubygems installed
+**Demo:** https://themes.3rdwavemedia.com/demo/bs5/devresume/
 
-### Features
+DevResume is a **free Bootstrap 5 resume/CV template** I made for software developers. Built on **Bootstrap 5 and SASS**, it's quick and easy to change the template styling. This template is designed to help you **build your personal brand and attract better clients**!
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+## Author & License
 
----
+This Bootstrap template is made by UX/UI designer [Xiaoying Riley](https://twitter.com/3rdwave_themes) for developers and is 100% FREE as long as you **keep the footer attribution link**. You do not have the rights to resell, sublicense or redistribute (even for free) the template on its own or as a separate attachment from any of your work.
 
-### Install and Test
 
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
+If you'd like to **use the template without the attribution link**, you can [buy the **commercial license** via the theme website](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/)
 
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
 
----
+#### Follow Xiaoying
 
-### Demo and Download
+[Twitter](https://twitter.com/3rdwave_themes)
 
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
+[Facebook](https://www.facebook.com/3rdwavethemes/)
 
-![jekyll-uno - free Jekyll theme](/screenshot.png)
+[Dribbble](https://dribbble.com/Xiaoying)
 
----
+[Medium](https://medium.com/@3rdwave_themes)
 
-### Copyright and license
+[Linkedin](https://uk.linkedin.com/in/xiaoying)
 
-It is under [the MIT license](/LICENSE).
+
+## Latest Version
+**Bootstrap 5 v2.0** - 2022-05-26
+
+[Changelog](https://themes.3rdwavemedia.com/bootstrap-templates/resume/devresume-free-bootstrap-5-resume-cv-template-for-developers/?target=changelog)
+
+
+## Features
+
+-  Fully Responsive
+-  HTML5 + CSS3
+-  Built on Bootstrap 5
+-  **SCSS** source files included
+-  FontAwesome 6 icons
+-  Compatible with all modern browsers
+
+## Credits
+- [Bootstrap](http://getbootstrap.com/)
+- [FontAwesome](http://fortawesome.github.io/Font-Awesome/)
